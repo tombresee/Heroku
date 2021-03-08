@@ -23,10 +23,15 @@ Heroku Vault
 Examples 
 ~~~~~~~~~~
 
+* https://github.com/minsun-ss  < - - - good 
+* https://github.com/minsun-ss?tab=repositories
+* https://siads591-sscc.herokuapp.com/
 * https://github.com/austinlasseter/dash-scatterplot-housing
 * https://github.com/austinlasseter/dash-scatterplot-housing
 * https://scatterplot-dc-housing.herokuapp.com/
-* * `Causal Inference With Python Part 1 Potential Outcomes <http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/>`_
+* https://github.com/tombresee/flying-dog-beers
+* https://github.com/minsun-ss/FINRA-ABS
+* `Causal Inference With Python Part 1 Potential Outcomes <http://www.degeneratestate.org/posts/2018/Mar/24/causal-inference-with-python-part-1-potential-outcomes/>`_
 
 
 
